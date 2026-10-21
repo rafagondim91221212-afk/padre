@@ -100,7 +100,7 @@ export default function Page() {
         <section className="mt-4">
           <h1 className="text-[12px] font-semibold leading-5">ESTO TE LO HAN OCULTADO... PERO HOY SERÁ REVELADO EN DIRECTO A LAS</h1>
           <div className="mt-2 flex items-center gap-2">
-            <div className="flex size-7 items-center justify-center rounded-full bg-[#855b3b] text-[10px] font-bold text-white">P</div>
+            <img src="/padre-avatar.jpg" alt="Père Juan Mendez" className="size-7 rounded-full object-cover" />
             <div className="flex-1 leading-3">
               <p className="text-[11px] font-semibold">Père Juan Mendez <span className="text-[9px]">✓</span></p>
               <p className="text-[9px] text-[#606060]">93 mil suscriptores</p>
